@@ -3,7 +3,7 @@
 ## Fully vibe-coding approach
 
 I decided to come up with some kind of vibe coding experiment. 
-AI agent have to write a service form the beginning without any intervene from developer
+AI agent have to write a service from the beginning without any intervene from developer
 
 ## Plot
 
